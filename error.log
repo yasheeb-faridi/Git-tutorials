@@ -1,0 +1,2 @@
+this is a error log file which we dont need.
+So we will put it in .gitignore .
